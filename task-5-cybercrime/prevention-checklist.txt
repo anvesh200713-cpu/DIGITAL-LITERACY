@@ -1,0 +1,10 @@
+# Stay Safe Online: Cybersecurity Checklist for College Students
+
+1. **The Golden UPI Rule:** Remember that entering your UPI PIN is ONLY required to *send* money. You never need to enter a PIN to receive a refund, scholarship, or payment.
+2. **Verify Payment Gateways:** Before scanning a QR code or accepting a UPI mandate for an online purchase, verify the exact merchant name that appears on your GPay/PhonePe screen before hitting approve.
+3. **Avoid Third-Party Top-ups:** Only purchase software, game currency, or subscriptions through the official client or verified app stores, never through random Discord links or Instagram ads.
+4. **Beware of the "Urgency" Trap:** Phishing relies on panic (e.g., "Your college email will be deleted in 2 hours!"). Always pause, breathe, and verify the claim directly with the university IT desk.
+5. **Use a Password Manager:** Stop reusing the same password for your student portal, GitHub, and social media. Use a password manager to generate unique credentials.
+6. **Enable 2FA Everywhere:** Turn on Two-Factor Authentication using an authenticator app (like Google Authenticator) for your primary email and financial apps.
+7. **Be Cautious on Campus Wi-Fi:** Avoid making sensitive financial transactions or accessing unencrypted personal data while connected to open, public campus Wi-Fi networks.
+8. **Know How to Report:** If you fall victim to an online financial fraud, time is critical. Immediately report the incident to the **National Cyber Crime Reporting Portal (cybercrime.gov.in)** and call the dedicated **Helpline 1930** to freeze the fraudulent transaction.
