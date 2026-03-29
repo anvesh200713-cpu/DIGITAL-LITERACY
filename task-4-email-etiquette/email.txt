@@ -1,0 +1,26 @@
+Email 1: Requesting an Extension
+Subject: Extension Request: BYOP Assignment - Anvesh Verma (1st Year CSE)
+Dear Professor ,
+I hope this email finds you well.
+I am writing to respectfully request a brief extension for the upcoming "Build Your Own Project" (BYOP) assignment. While I have made solid progress on my Python Stone-Paper-Scissor game and set up the GitHub repository, I have run into an unexpected bug in the core logic that is taking longer than anticipated to debug.
+Would it be possible to get a 48-hour extension until 1-04-26 to ensure the final code meets the expected quality standards? I completely understand if this is not feasible, and I will submit my current progress by the original deadline if necessary.
+Thank you for your time and understanding.
+Sincerely,
+Anvesh Verma
+1st Year B.Tech CSE (AIML)
+VIT Bhopal
+25BAI10527
+
+
+Email 2: Summer Internship Inquiry
+Subject: Summer Internship Inquiry: Software Engineering / AIML - Anvesh Verma
+Dear [Coordinator's Name or Hiring Team],
+I hope you are having a great week.
+My name is Anvesh Verma, and I am a first-year B.Tech student majoring in Computer Science with a specialization in Artificial Intelligence and Machine Learning at VIT Bhopal. I have been following [Company Name]'s recent work in [mention a field or project, e.g., AI-driven solutions], and I am very interested in exploring summer internship opportunities with your team.
+Through my coursework and self-study, I have built a strong foundation in Python and C++, and I am actively expanding my practical skills through independent projects, which you can view on my GitHub profile. I am eager to bring my enthusiasm for problem-solving and rapid learning to a professional environment.
+I have attached my resume for your review. Thank you for your time and consideration. I look forward to the possibility of discussing how I can contribute to your team this summer.
+Best regards,
+Anvesh Verma
+B.Tech CSE (AIML), VIT Bhopal
+anvesh.25bai10527@vitbhopal.ac.in
+https://www.linkedin.com/in/anvesh-verma-59b777364/
